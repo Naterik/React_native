@@ -32,6 +32,8 @@ npm run android
 yarn android
 ```
 
+afasdfasdadf
+
 ### iOS
 
 For iOS, remember to install CocoaPods dependencies (this only needs to be run on first clone or after updating native deps).
